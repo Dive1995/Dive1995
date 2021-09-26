@@ -43,6 +43,7 @@ I am an undergraduate student 🎓 studying Computer Science and Technology.
 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diveshan1995@gmail.com)](mailto:diveshan1995@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@dive_diveshan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dive_diveshan)](https://twitter.com/dive_diveshan)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thavarasa-diveshan-b36791175/)
 
 
 ⭐️ From [Dive1995](https://github.com/Dive1995)
