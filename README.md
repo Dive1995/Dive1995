@@ -4,7 +4,7 @@ I am an undergraduate student 🎓 studying Computer Science and Technology.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🖥  &nbsp; Pursuing Web Development as hobbies/study.
+- 🖥  &nbsp; Pursuing Web Development as hobby/study.
 - 🚀  &nbsp; Exited to learn new languages and frameworks.
 - 🌱  &nbsp; Learning more about Backend Architectures and Frontend Developement.
 - ⚡️  &nbsp; Currently working on a MERN stack project.
@@ -42,7 +42,6 @@ I am an undergraduate student 🎓 studying Computer Science and Technology.
 <br/>
 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diveshan1995@gmail.com)](mailto:diveshan1995@gmail.com)
-![Twitter](https://img.shields.io/badge/https://twitter.com/dive_diveshan-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-
+![Twitter](https://img.shields.io/badge/Diveshan.Dive-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/dive_diveshan)](https://twitter.com/dive_diveshan)
 
 ⭐️ From [Dive1995](https://github.com/Dive1995)
