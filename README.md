@@ -1,12 +1,13 @@
 <h2> Hey there! 👋, I'm Diveshan.</h2>
-I am an undergraduate student 🎓 studying Computer Science and Technology at Uva Wellassa University of Sri Lanka.
+I am an undergraduate student 🎓 studying Computer Science and Technology.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" style="margin-top:30px;">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👩🏻‍💻 &nbsp; Pursuing Web Development as hobbies/study.
-- 📄 &nbsp; I'm constantly learning new languages and frameworks and creating my own personal projects.
-- 🌱 &nbsp; Currently working on a MERN stack project.
+- 🖥  &nbsp; Pursuing Web Development as hobbies/study.
+- 🚀  &nbsp; Exited to learn new languages and frameworks.
+- 🌱  &nbsp; Learning more about Backend Architectures and Frontend Developement.
+- ⚡️  &nbsp; Currently working on a MERN stack project.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -38,8 +39,10 @@ I am an undergraduate student 🎓 studying Computer Science and Technology at U
 </a>
 
 <br/>
+<br/>
 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diveshan1995@gmail.com)](mailto:diveshan1995@gmail.com)
+![Twitter](https://img.shields.io/badge/https://twitter.com/dive_diveshan-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 
 ⭐️ From [Dive1995](https://github.com/Dive1995)
