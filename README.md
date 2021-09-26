@@ -42,7 +42,7 @@ I am an undergraduate student 🎓 studying Computer Science and Technology.
 <br/>
 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diveshan1995@gmail.com)](mailto:diveshan1995@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@piraces_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dive_diveshan)](https://twitter.com/dive_diveshan)
+[![Twitter Badge](https://img.shields.io/badge/-@dive_diveshan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dive_diveshan)](https://twitter.com/dive_diveshan)
 
 
 ⭐️ From [Dive1995](https://github.com/Dive1995)
