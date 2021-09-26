@@ -9,7 +9,7 @@ I am an undergraduate student 🎓 studying Computer Science and Technology.
 - 🌱  &nbsp; Learning more about Backend Architectures and Frontend Developement.
 - ⚡️  &nbsp; Currently working on a MERN stack project.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Languages and Tools</h3>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
