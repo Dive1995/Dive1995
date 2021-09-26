@@ -1,5 +1,6 @@
 <h2> Hey there! 👋, I'm Diveshan.</h2>
-I am an undergraduate 🎓 student studying Computer Science and Technology at Uva Wellassa University of Sri Lanka.
+I am an undergraduate student 🎓 studying Computer Science and Technology at Uva Wellassa University of Sri Lanka.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -37,6 +38,8 @@ I am an undergraduate 🎓 student studying Computer Science and Technology at U
 </a>
 
 <br/>
+
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diveshan1995@gmail.com)](mailto:diveshan1995@gmail.com)
 
 
 ⭐️ From [Dive1995](https://github.com/Dive1995)
