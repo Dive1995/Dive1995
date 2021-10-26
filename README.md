@@ -3,7 +3,7 @@ I am an undergraduate student 🎓 studying Computer Science and Technology.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" style="margin-top:30px;">
 
 [Checkout my Portfolio](https://diveshan.netlify.app/)
-[Live Site](https://covid-19-tracker-lk.netlify.app/)
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
