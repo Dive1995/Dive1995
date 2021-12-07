@@ -10,7 +10,8 @@ I am an undergraduate student 🎓 studying Computer Science and Technology.
 - 🖥  &nbsp; Pursuing Web Development as hobby/study.
 - 🚀  &nbsp; Exited to learn new languages and frameworks.
 - 🌱  &nbsp; Learning more about Backend Architectures and Frontend Developement.
-- ⚡️  &nbsp; Currently working on a MERN stack project.
+- 👀  &nbsp; Inrested in Web3 & Blockchain.
+- ⚡️  &nbsp; Currently working on a Productivity App.
 
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
