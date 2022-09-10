@@ -13,9 +13,9 @@ I am an undergraduate student 🎓 studying Computer Science and Technology.
 - 👀  &nbsp; Inrested in Web3 & Blockchain.
 - ⚡️  &nbsp; Currently learning .NET Microservices with Kubernetes & Docker.
 
-<h3> 🛠 &nbsp;Languages and Tools</h3>
+<!-- <h3> 🛠 &nbsp;Languages and Tools</h3> -->
 
-   <p align="left"> 
+<!--    <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/344/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-regular-tal-revivo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/344/docker.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/344/kubernetes.png"/> </a>
@@ -34,7 +34,7 @@ I am an undergraduate student 🎓 studying Computer Science and Technology.
 
     
 </p>
-
+ -->
 
 <br/>
 
