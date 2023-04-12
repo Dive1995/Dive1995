@@ -1,5 +1,5 @@
 <h2> Hey there! 👋, I'm Diveshan.</h2>
-I am an Associate Software Engineer at Virtusa CMB.
+I am an Associate Software Engineer at i-Wonder Sri Lanka.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" style="margin-top:30px;">
 
 [Checkout my Portfolio](https://diveshan.netlify.app/)
@@ -11,7 +11,7 @@ I am an Associate Software Engineer at Virtusa CMB.
 - 🚀  &nbsp; Exited to learn new languages and frameworks.
 - 🌱  &nbsp; Learning more about Backend Architectures and Frontend Developement.
 - 👀  &nbsp; Inrested in Web3 & Blockchain.
-- ⚡️  &nbsp; Currently learning .NET Microservices with Kubernetes & Docker.
+- ⚡️  &nbsp; Currently creating a Job Portal with React
 
 <!-- <h3> 🛠 &nbsp;Languages and Tools</h3> -->
 
