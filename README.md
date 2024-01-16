@@ -1,5 +1,5 @@
 <h2> Hey there! 👋, I'm Diveshan.</h2>
-I am an Associate Software Engineer at i-Wonder Sri Lanka.
+I love to code 💙🧑‍💻.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" style="margin-top:30px;">
 
 [Checkout my Portfolio](https://diveshan.netlify.app/)
