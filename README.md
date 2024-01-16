@@ -11,7 +11,7 @@ I am an Associate Software Engineer at i-Wonder Sri Lanka.
 - 🚀  &nbsp; Exited to learn new languages and frameworks.
 - 🌱  &nbsp; Learning more about Backend Architectures and Frontend Developement.
 - 👀  &nbsp; Inrested in Web3 & Blockchain.
-- ⚡️  &nbsp; Currently creating a Job Portal with React
+- ⚡️  &nbsp; Currently creating a Language Learning site where one can learn vocabularies from YouTube.
 
 <!-- <h3> 🛠 &nbsp;Languages and Tools</h3> -->
 
