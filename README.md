@@ -11,7 +11,7 @@ I love to code 💙🧑‍💻.
 - 🚀  &nbsp; Exited to learn new languages and frameworks.
 - 🌱  &nbsp; Learning more about Backend Architectures and Frontend Developement.
 - 👀  &nbsp; Inrested in Web3 & Blockchain.
-- ⚡️  &nbsp; Currently creating a Language Learning site where one can learn vocabularies from YouTube.
+- ⚡️  &nbsp; Currently building a Job application Tracker with AI CV and Cover Letter generation.
 
 <!-- <h3> 🛠 &nbsp;Languages and Tools</h3> -->
 
